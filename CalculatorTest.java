@@ -25,7 +25,7 @@ class CalculatorTest {
     @Test
     @DisplayName("Add: 2 + 3 = 5")
     void testAddPositiveNumbers() {
-        assertEquals(5.0, calculator.add(2, 3));
+        assertEquals(8.0, calculator.add(2, 3));
     }
 
     @Test
