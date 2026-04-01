@@ -1,10 +1,6 @@
-# 🔢 CALCULATOR_JAVA
 
-[![CI/CD Pipeline](https://github.com/tetliubas-collab/CALCULATOR_JAVA/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/tetliubas-collab/CALCULATOR_JAVA/actions/workflows/ci-cd.yml)
-[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.org/projects/jdk/17/)
-[![Maven](https://img.shields.io/badge/Build-Maven-blue.svg)](https://maven.apache.org/)
+[![CI/CD Pipeline](https://github.com/tetliubas-collab/lab4/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/tetliubas-collab/lab4/actions/workflows/ci-cd.yml)
 
-Калькулятор на Java з повністю налаштованим CI/CD пайплайном через GitHub Actions.
 
 ## ✨ Функціонал
 
